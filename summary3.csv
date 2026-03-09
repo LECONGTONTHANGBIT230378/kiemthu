@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Search_JMeter,20,1178,816,2198,415.90,0.000%,3.54673,422.71,2.34,122042.4
+TOTAL,20,1178,816,2198,415.90,0.000%,3.54673,422.71,2.34,122042.4
