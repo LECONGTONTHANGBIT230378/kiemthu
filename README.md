@@ -66,3 +66,5 @@ Khắc phục lỗi cấu hình TG01: Kiểm tra lại toàn bộ URL, IP, và P
 Tối ưu hóa thuật toán/Database cho chức năng Search: Phân tích lại API tương ứng với TG03_Custom. Cần xem xét việc đánh Index cho Database, áp dụng Caching, hoặc tối ưu hóa lại câu truy vấn tìm kiếm để giảm thiểu Latency (hiện đang rất cao, lên tới 1.5s).
 
 Giám sát Server (Monitoring): Để giải quyết các điểm nghẽn đột biến (>1.5s) trong TG02_HeavyLoad, cần kết hợp theo dõi các thông số phần cứng của Server (CPU, RAM, Disk I/O) trong quá trình test để tìm ra giới hạn thắt cổ chai thực sự.
+
+https://docs.google.com/document/d/1omXOw7nSKvPVGDDZnZYQ-OmC5uKXSXAvdWNkrgktCwE/edit?usp=sharing
